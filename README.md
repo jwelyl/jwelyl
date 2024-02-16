@@ -1,6 +1,7 @@
 ### Hi there 👋
 <p><a href="https://solved.ac/koreii">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koreii" alt="Solved.ac프로필">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koreii" alt="Solved.ac Profile">
+<img src="http://mazandi.herokuapp.com/api?handle=koreii&theme=cold" alt="Solved.ac Streak">
 </a></p>
 
 <p>
