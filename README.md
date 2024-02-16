@@ -1,8 +1,11 @@
 ### Hi there 👋
 <p><a href="https://solved.ac/koreii">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koreii" alt="Solved.ac프로필">
-<img src="https://ghchart.rshah.org/409ba5/jwelyl" alt="jwelyl's Github Chart" />
 </a></p>
+
+<p>
+<img src="https://ghchart.rshah.org/409ba5/jwelyl" alt="jwelyl's Github Chart" />
+</p>
 
 <!--
 **jwelyl/jwelyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
